@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshneyyash&label=Profile%20views&color=0e75b6&style=flat" alt="varshneyyash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshneyyash" alt="varshneyyash" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varshneyyash](https://github.com/varshneyyash)
