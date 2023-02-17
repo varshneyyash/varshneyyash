@@ -14,7 +14,7 @@
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshneyyash&show_icons=true&locale=en" alt="varshneyyash" /></span>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshneyyash&show_icons=true&locale=en&layout=compact" alt="varshneyyash" />
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshneyyash&show_icons=true&locale=en&layout=compact" alt="varshneyyash" /></span>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
