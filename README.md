@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sahuyash128@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SYjWwGArVTVp-EG1AlLu6d9YBK-oWBPc/view?usp=share_link](https://drive.google.com/file/d/1SYjWwGArVTVp-EG1AlLu6d9YBK-oWBPc/view?usp=share_link)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1SYjWwGArVTVp-EG1AlLu6d9YBK-oWBPc/view?usp=share_link](https://drive.google.com/file/d/1SYjWwGArVTVp-EG1AlLu6d9YBK-oWBPc/view?usp=share_link) -->
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshneyyash&label=Profile%20views&color=0e75b6&style=flat" alt="varshneyyash" /> </p>
